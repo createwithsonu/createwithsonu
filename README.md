@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonu Patel
-- 👀 I’m interested in Video Editing, Cinematography, Photography.
-- 🌱 I’m currently learning Adobe AfterEffects, UI/UX
+- 👀 I’m interested in Frontend Development, Video Editing, Cinematography, Photography.
+- 🌱 I’m currently learning Frontend Development, Adobe AfterEffects, UI/UX
 - 💞️ I’m looking to collaborate with Editors and Developers.
 - 📫 How to reach me @createwithsonu@gmail.com ; Contact No. 9076839304
 - 😄 Pronouns: He/Him
