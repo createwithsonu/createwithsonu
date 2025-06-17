@@ -1,6 +1,4 @@
-## 🔹 Portfolio:
-
-🌐 [View My Portfolio](- 👋 Hi, I’m **Sonu Patel**
+- 👋 Hi, I’m **Sonu Patel**
 - 👀 I’m interested in **Full Stack Development, UI/UX Design, Video Editing, Photography, and Cinematography**
 - 🌱 I’m currently learning **Full Stack (React, NodeJS), UI/UX, and Adobe After Effects**
 - 💞 I’m looking to collaborate with **Developers, Designers, and Content Creators**
@@ -21,5 +19,5 @@
 
 ## 🔹 Portfolio:
 
-🌐 [View My Portfolio](https://your-portfolio-link.example.com)
+🌐 [View My LinkedIn Profile](https://www.linkedin.com/in/createwithsonupatel)
 
