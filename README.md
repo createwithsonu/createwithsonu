@@ -19,12 +19,6 @@
 
 ---
 
-## 🔹 Top Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=createwithsonu&layout=compact&theme=dark)
-
----
-
 ## 🔹 Portfolio:
 
 🌐 [View My Portfolio](https://your-portfolio-link.example.com)
