@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Full Stack Development, UI/UX Design, Video Editing, Photography, and Cinematography**
 - 🌱 I’m currently learning **Full Stack , UI/UX,
 - 💞 I’m looking to collaborate with **Developers, Designers, and Content Creators**
-- 📫 How to reach me: [createwithsonu@gmail.com](mailto:createwithsonu@gmail.com) | Contact: **9076839304**
+- 📫 How to reach me: [createwithsonu@gmail.com](mailto:createwithsonu@gmail.com)
 - 😄 Pronouns: He/Him
 
 ---
