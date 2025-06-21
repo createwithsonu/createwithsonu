@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Sonu Patel**
 - 👀 I’m interested in **Full Stack Development, UI/UX Design, Video Editing, Photography, and Cinematography**
-- 🌱 I’m currently learning **Full Stack (React, NodeJS), UI/UX, and Adobe After Effects**
+- 🌱 I’m currently learning **Full Stack , UI/UX,
 - 💞 I’m looking to collaborate with **Developers, Designers, and Content Creators**
 - 📫 How to reach me: [createwithsonu@gmail.com](mailto:createwithsonu@gmail.com) | Contact: **9076839304**
 - 😄 Pronouns: He/Him
